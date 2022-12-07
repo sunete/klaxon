@@ -12,7 +12,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'bootsnap', require: false
 gem 'coffee-rails'
-gem 'sdoc', '~> 2.3.1', group: :doc
+gem 'sdoc', '~> 2.4.0', group: :doc
 
 gem 'rack-cache'
 gem 'bcrypt', '~> 3.1.18'
